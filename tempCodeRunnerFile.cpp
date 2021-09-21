@@ -1,0 +1,1 @@
+int arrSize = sizeof(array)/sizeof(array[0]);
